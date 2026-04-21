@@ -1,3 +1,5 @@
+HOTEL RESERVATION SYSTEM
+
 A fully console-based Hotel Reservation Management System built with Core Java, featuring real-time booking management, automated billing, and persistent data storage.
 
 Built a full-stack console application in Core Java managing the complete hotel workflow — room booking, guest check-in/check-out, billing, and invoice generation.
